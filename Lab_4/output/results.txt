@@ -1,0 +1,44 @@
+=== Демонстраційні приклади ===
+
+Випадкові int дані
+mean: 48.667
+median: 48.0
+mode: 24
+population_variance: 816.418111
+sample_variance: 817.2353463463463
+population_std: 28.573031183267904
+sample_std: 28.58732842268312
+
+
+Трикутний розподіл
+mean: 61.429198665496045
+median: 64.19821095083168
+mode: 57.066481342204625
+population_variance: 413.5628812245125
+sample_variance: 413.9768580825951
+population_std: 20.336245504628245
+sample_std: 20.346421259833264
+
+
+=== Статистика для набору даних ===
+
+Набір за варіантом — speed_kmh
+mean: 138
+median: 159.0
+mode: 36
+population_variance: 5117.8
+sample_variance: 5686.444444444444
+population_std: 71.5388006609001
+sample_std: 75.40851705506775
+
+
+Набір за варіантом — course_deg
+mean: 82.2
+median: 53.0
+mode: 56
+population_variance: 5477.76
+sample_variance: 6086.4
+population_std: 74.01189093652452
+sample_std: 78.01538309846335
+
+
