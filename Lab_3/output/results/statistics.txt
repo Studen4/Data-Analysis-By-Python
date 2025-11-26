@@ -1,0 +1,12 @@
+Statistics of DualGPS measurements
+
+heading_stats:
+  mean: 2.0675863061093573
+  std: 0.002273245738691552
+  max_deviation: 0.008406277890642855
+
+pitch_stats:
+  mean: 97.11364867085796
+  std: 0.123240632576602
+  max_deviation: 0.42816804014204024
+
