@@ -1,0 +1,72 @@
+{
+  "method": "polars_eager",
+  "start": 1764258968.4905138,
+  "read_time_s": 0.046902580999812926,
+  "rows": 1000000,
+  "cols": 8,
+  "revenue_time_s": 0.008120743000290531,
+  "total_rev": 18813950016.9679,
+  "total_rev_time_s": 0.0008936559997891891,
+  "by_region_time_s": 0.051524774999961664,
+  "mem_before_bytes": 171786240,
+  "mem_after_bytes": 367493120,
+  "head": [
+    {
+      "order_id": 1,
+      "order_date": "2023-03-20",
+      "region": "Asia",
+      "category": "Toys",
+      "sub_category": "Dolls",
+      "price": 3894.29,
+      "quantity": 18,
+      "discount": 0.49,
+      "revenue": 35749.582200000004
+    },
+    {
+      "order_id": 2,
+      "order_date": "2023-02-22",
+      "region": "North America",
+      "category": "Toys",
+      "sub_category": "Sofas",
+      "price": 2840.07,
+      "quantity": 3,
+      "discount": 0.02,
+      "revenue": 8349.8058
+    },
+    {
+      "order_id": 3,
+      "order_date": "2023-11-20",
+      "region": "North America",
+      "category": "Clothes",
+      "sub_category": "Sofas",
+      "price": 3758.3,
+      "quantity": 17,
+      "discount": 0.23,
+      "revenue": 49196.147000000004
+    },
+    {
+      "order_id": 4,
+      "order_date": "2023-05-14",
+      "region": "South America",
+      "category": "Electronics",
+      "sub_category": "TVs",
+      "price": 660.09,
+      "quantity": 16,
+      "discount": 0.43,
+      "revenue": 6020.020800000001
+    },
+    {
+      "order_id": 5,
+      "order_date": "2023-03-03",
+      "region": "North America",
+      "category": "Toys",
+      "sub_category": "Pants",
+      "price": 1124.99,
+      "quantity": 18,
+      "discount": 0.41,
+      "revenue": 11947.393800000002
+    }
+  ],
+  "duration_s": 0.06786700400061818,
+  "finished_at": 1764258968.614431
+}

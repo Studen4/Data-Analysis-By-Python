@@ -1,0 +1,13 @@
+{
+  "method": "dask",
+  "start": 1764258968.756857,
+  "read_time_s": 0.017279317999964405,
+  "cast_time_s": 0.0060772019996875315,
+  "assign_time_s": 0.0025705469997774344,
+  "total_rev": 18813950016.967903,
+  "total_rev_time_s": 0.6417181110000456,
+  "by_region_time_s": 0.6967389589999584,
+  "mem_before_bytes": 508399616,
+  "mem_after_bytes": 726716416,
+  "finished_at": 1764258970.1252236
+}

@@ -1,0 +1,11 @@
+{
+  "method": "polars_lazy",
+  "start": 1764258968.6158028,
+  "scan_time_s": 0.00120189399967785,
+  "build_graph_time_s": 0.00019508300010784296,
+  "collect_time_s": 0.13861326299957,
+  "rows_result": 20,
+  "mem_before_bytes": 368967680,
+  "mem_after_bytes": 508399616,
+  "finished_at": 1764258968.7564213
+}
